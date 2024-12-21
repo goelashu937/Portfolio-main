@@ -56,10 +56,10 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">
-            Aspiring Developer + Designer
+            Aspiring Analyst + Designer
         </h3>
         <p className="home__description">
-        Passionate about pursuing a career as a Software Engineer with a strong foundation in technical and management skills.
+        Passionate about pursuing a career as a Product and Business Analyst with a strong foundation in technical and management skills.
         </p>
 
         <a href="#contact" className="button button--flex">

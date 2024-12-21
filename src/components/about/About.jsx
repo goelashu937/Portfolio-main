@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/ashu.png";
-import CV from "../../assets/Example-Cv.pdf";
+import CV from "../../assets/Resume_AshuGoel.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -14,8 +14,9 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                I am passionate about pursuing a career as a Software Engineer with a strong foundation in technical and management skills. As a core member of the Google Developer Student’s Club, I have gained valuable teamwork and leadership experience. Eager to contribute to forward-thinking projects and collaborate with talented professionals in the business and tech industry.  
-                I am open to work in all domains.
+                I am passionate about pursuing a career as a Product and Business Analyst, leveraging a strong foundation in analytical, technical, and management skills. As a core member of the Google Developer Student Club, I have developed valuable teamwork and leadership experience, successfully coordinating innovative projects and fostering collaboration.
+                Eager to contribute to data-driven decision-making and work on forward-thinking initiatives, I aim to bridge the gap between business needs and technical solutions.
+                <br></br>I am excited to collaborate with talented professionals in the business and tech industry.
                 <br></br>
                 [Fun Fact] : " I love trying out new recipes and experimenting in the kitchen."
                 </p>
